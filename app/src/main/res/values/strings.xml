@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    //Headings
+    <string name="heading_one">Zulfan Ahmad Kamal</string>
+    <string name="heading_two">IF-3/S1/VI</string>
+
+    //Description
+    <string name="desc_one">10122805</string>
+    <string name="desc_two">zulfan.10122805@unikom.mahasiswa.ac.id</string>
+
+</resources>
